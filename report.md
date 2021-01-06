@@ -31,4 +31,4 @@ This is the report for **lab6-microservices**.
 Since the `accounts (4444)` microservice is still running and registered in Eureka , the web service can provide information about accounts. 
 - ![Account 2222 down](report_images/Account_2222_takedown.PNG)
 - Still working after 2222 was taken down
-![Account 2222 down web browser](report_images/Account_2222_takedown.PNG)
+![Account 2222 down web browser](report_images/StillWorkingAfter2222down.PNG)
